@@ -3125,7 +3125,18 @@ label.custom-select {
     padding: 0;
     margin: 0px;
     text-align: center;
-    background: url(../images/site-img34.jpg) 0px 0px no-repeat;
+}
+
+.about_us {
+    background: url(../images/about_deval_software.jpg) 0px 0px no-repeat;
+}
+
+.contact_us {
+    background: url(../images/contactanos_deval_tech_sistemas.jpg) 0px 0px no-repeat;
+}
+
+.services {
+    background: url(../images/Cloud-computing-Services.png) 0px 0px no-repeat;
 }
 
 .header_medium .bigtext {
