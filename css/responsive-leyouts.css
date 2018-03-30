@@ -847,7 +847,7 @@
         background: url(/assets/images/desarrollo-software.1.png) no-repeat center bottom;
     }
     #trueHeader .logo {
-        width: 100%;
+        width: 60%;
         margin-bottom: 5px;
         text-align: center;
     }
@@ -857,7 +857,7 @@
     }
     .menu_main {
         /* float: none; */
-        width: 90%;
+        width: 40%;
         margin: 0 auto;
     }
     .domain_search_home #domain-searchform #dsearch {
@@ -1462,7 +1462,7 @@
         background: url(assets/images/desarrollo-software.1.png) no-repeat center bottom;
     }
     #trueHeader .logo {
-        width: 100%;
+        width: 60%;
         margin-bottom: 5px;
         text-align: center;
     }
@@ -1475,7 +1475,7 @@
     }
     .menu_main {
         /* float: none; */
-        width: 90%;
+        width: 40%;
         margin: 0 auto;
     }
     /*sections*/

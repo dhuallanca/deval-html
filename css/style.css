@@ -3129,17 +3129,17 @@ label.custom-select {
 
 .about_us {
     background: url(../images/about_deval_software.jpg) 0px 0px no-repeat;
-    background-size: contain;
+    background-size: 100% 300px;
 }
 
 .contact_us {
     background: url(../images/contactanos_deval_tech_sistemas.jpg) 0px 0px no-repeat;
-    background-size: contain;
+    background-size: 100% 300px;
 }
 
 .services {
     background: url(../images/Cloud-computing-Servicios-deval-2.jpg) 0px 0px no-repeat;
-    background-size: contain;
+    background-size: 100% 300px;
 }
 
 .header_medium .bigtext {
@@ -4833,16 +4833,16 @@ a.knowmore_but:hover {
 .sidebar_social_icons .social_icons li {
     padding: 0px;
     margin-right: 5px;
-    float: left;
+    /* float: left; */
     display: inline;
 }
 
 .sidebar_social_icons .social_icons li a {
-    width: 45px;
-    height: 45px;
+    /* width: 45px;
+    height: 45px; */
     padding: 0px;
     margin: 0px;
-    float: left;
+    /* float: left; */
     color: #161616;
     display: inline;
     text-align: center;
@@ -7120,15 +7120,15 @@ ul.social_icon_st5 {
 .social_icon_st5 li {
     padding: 0px;
     margin-right: 5px;
-    float: left;
+    /* float: left; */
     display: inline;
 }
 
 .social_icon_st5 li a {
-    width: 45px;
-    height: 45px;
+    /* width: 45px;
+    height: 45px; */
     padding: 0px;
-    float: left;
+    /* float: left; */
     color: #fff;
     margin: 0 0 5px 0;
     font-size: 18px;
@@ -7196,16 +7196,16 @@ ul.social_icon_st6 {
 .social_icon_st6 li {
     padding: 0px;
     margin-right: 5px;
-    float: left;
+    /* float: left; */
     display: inline;
 }
 
 .social_icon_st6 li a {
-    width: 45px;
-    height: 45px;
+    /* width: 45px;
+    height: 45px; */
     padding: 0px;
     margin: 0 0 5px 0;
-    float: left;
+    /* float: left; */
     color: #fff;
     font-size: 18px;
     line-height: 43px;
