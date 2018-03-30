@@ -856,7 +856,7 @@
         background: url(/assets/images/desarrollo-software.1.png) no-repeat center bottom;
     }
     .menu_main {
-        float: none;
+        /* float: none; */
         width: 90%;
         margin: 0 auto;
     }
@@ -1474,7 +1474,7 @@
         width: 100%;
     }
     .menu_main {
-        float: none;
+        /* float: none; */
         width: 90%;
         margin: 0 auto;
     }

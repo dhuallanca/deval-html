@@ -1,7 +1,7 @@
 <?php
 if( isset($_POST['name']) )
 {
-	$to = 'codelayers9@gmail.com'; // Replace with your email
+	$to = 'contacto@devaltech.net'; // Replace with your email
 	
 	$subject = $_POST['subject'];
 	$message = $_POST['message'] . "\n\n" . 'Regards, ' . $_POST['name'] . '.';

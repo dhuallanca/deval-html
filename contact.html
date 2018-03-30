@@ -108,8 +108,8 @@
                                                     </li>
                                                     <li class="dropdown"> <a href="services.html" class="dropdown-toggle"> Servicios</a>
                                                     </li>
-                                                    <li class="dropdown"> <a href="products.html" class="dropdown-toggle"> Productos</a>
-                                                    </li>
+                                                    <!-- <li class="dropdown"> <a href="products.html" class="dropdown-toggle"> Productos</a>
+                                                    </li> -->
 
                                                     <li class="dropdown"> <a href="contact.html" class="dropdown-toggle active">Contacto</a>
                                                     </li>
@@ -129,7 +129,7 @@
             <div class="header_medium contact_us two">
                 <div class="container">
                     <h3 class="bigtext"> Contacte<span>nos</span></h3>
-                    <h3 class="smalltext"><span>Te</span> Escuchamos</h3>
+                    <h3 class="smalltext"><span>Los</span> Escuchamos</h3>
                 </div>
             </div>
             <!--end header medium-->
@@ -340,14 +340,15 @@
                     // Messages for form validation
                     messages: {
                         name: {
-                            required: 'Please enter your name',
+                            required: 'Ingrese su nombre',
                         },
                         email: {
-                            required: 'Please enter your email address',
-                            email: 'Please enter a VALID email address'
+                            required: 'Ingrese su email',
+                            email: 'Email incorrecto'
                         },
                         message: {
-                            required: 'Please enter your message'
+                            required: 'Ingrese su mensaje',
+                            minlength: 'Ingrese mínimo 10 caracteres'
                         }
                     },
 

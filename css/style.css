@@ -154,11 +154,11 @@
     float: left;
     display: block;
     width: 100%;
-    min-height: 45px;
-    margin-top: 13px;
+    min-height: 70px;
+    margin-top: 2px;
     position: relative;
     text-indent: -999em;
-    background: url(../images/desarrollo-software.1.png) no-repeat left bottom;
+    background: url(../images/desarrollo-software.1.png) no-repeat left center;
 }
 
 
@@ -3129,14 +3129,17 @@ label.custom-select {
 
 .about_us {
     background: url(../images/about_deval_software.jpg) 0px 0px no-repeat;
+    background-size: contain;
 }
 
 .contact_us {
     background: url(../images/contactanos_deval_tech_sistemas.jpg) 0px 0px no-repeat;
+    background-size: contain;
 }
 
 .services {
     background: url(../images/Cloud-computing-Servicios-deval-2.jpg) 0px 0px no-repeat;
+    background-size: contain;
 }
 
 .header_medium .bigtext {
@@ -3248,7 +3251,7 @@ label.custom-select {
     float: left;
     padding: 0px 0 0px 0;
     margin: 0px;
-    background: url("../images/parallax_bg5.jpg");
+    background: url("../images/desarrollo-sistemas-outsourcing-2.jpg");
     background-attachment: fixed;
     background-origin: initial;
     background-clip: initial;

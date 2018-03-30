@@ -1,5 +1,5 @@
 #trueHeader #logo {
-    background: url(../../images/colors/liteblue/desarrollo-software.1.png) left bottom no-repeat;
+    background: url(../../images/colors/liteblue/desarrollo-software.1.png) left center no-repeat;
 }
 
 .top_nav {
@@ -485,7 +485,41 @@ ul.nav>li>a.active:hover {
 }
 
 .section_holder21 {
-    background-image: url(../../images/colors/liteblue/parallax_bg5.jpg);
+    width: 100%;
+    float: left;
+    padding: 0px 0 0px 0;
+    margin: 0px;
+    /* background: url("../images/desarrollo-sistemas-erp.jpg"); */
+    background: url(../../images/desarrollo-sistemas-outsourcing-2.jpg);
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+    background-position: center;
+    /* background-size: cover; */
+}
+
+.section_holder_services21 {
+    width: 100%;
+    float: left;
+    padding: 0px 0 0px 0;
+    margin: 0px;
+    /* background: url("../images/desarrollo-sistemas-erp.jpg"); */
+    background: url(../../images/desarrollo-sistemas-software-servicios.jpg);
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+    background-position: center;
+    /* background-size: cover; */
+}
+
+.section_holder_services21 .icon {
+    font-size: 4rem;
 }
 
 .section_holder22 .one_fourth:hover .img_holder {
